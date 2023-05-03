@@ -57,6 +57,12 @@
 <div style="height: 4px; width: 28px; background-color: #011F3B;"></div>
 <p style = "margin-left: 20px; width: 990; font-size: 16px;">Interviewed: You know about those signs that say ¨construction area¨, for me 2012 was a work process, of creating and creating, I finished my first album, I did my first television segment, on a personal level I also think that Being the second year that I had been in .......... I found myself, I found my people, I found what I like to do and I fell more in love with the country so much so that my desire is to stay and keep working here.</p>
    
+<div style="height: 4px; width: 28px; background-color: #011F3B;"></div>
+<p style = "margin-left: 20px; width: 990; font-size: 16px;">Interviewer: Ok, that album that you finished, what is the name?</p>
+    
+<div style="height: 4px; width: 28px; background-color: #011F3B;"></div>
+<p style = "margin-left: 20px; width: 990; font-size: 16px;">Interviewed: It's called ¨Me encontre conmigo¨, it's a production that was made with -------- as producer and I also recorded a couple of other things and so we're starting the promotion process in 2013, but also a couple more projects</p>    
+
     
   </body>
 </html>
