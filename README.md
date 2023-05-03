@@ -55,7 +55,7 @@
     </div>
 
 <div style="height: 4px; width: 28px; background-color: #011F3B;"></div>
-
+<p style = "margin-left: 20px; width: 990; font-size: 16px;">Interviewed: You know about those signs that say ¨construction area¨, for me 2012 was a work process, of creating and creating, I finished my first album, I did my first television segment, on a personal level I also think that Being the second year that I had been in .......... I found myself, I found my people, I found what I like to do and I fell more in love with the country so much so that my desire is to stay and keep working here.</p>
    
     
   </body>
